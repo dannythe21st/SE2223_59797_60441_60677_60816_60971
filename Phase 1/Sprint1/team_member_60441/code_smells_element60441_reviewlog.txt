@@ -1,0 +1,4 @@
+----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
+Concordo com o code smell nº3 pois, estaremos a gastar tempo de execução desnecessariamente ao chamar a mesma função duas vezes 
+enquanto poderiamos apenas chamar uma vez como foi dito.
+---------------------------------------------------------------------------------------------------------------------------------
