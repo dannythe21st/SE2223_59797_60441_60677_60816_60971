@@ -1,0 +1,3 @@
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+Review do pattern Prototype Pattern, concordo com a identificação deste padrão acho que o meu colega deu uma boa explicação
+-------------------------------------------------------------------------------------------------------------------------------
