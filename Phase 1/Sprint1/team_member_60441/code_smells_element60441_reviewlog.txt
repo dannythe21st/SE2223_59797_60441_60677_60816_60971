@@ -4,7 +4,13 @@ enquanto poderiamos apenas chamar uma vez como foi dito.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
-Reviw do code smell Speculative Generality, este code smell foi bem encontrado a explicação está bastante boa tenho apenas a acrescentar 
+Review do code smell Speculative Generality, este code smell foi bem encontrado a explicação está bastante boa tenho apenas a acrescentar 
 que além disto não existe qualquer tipo de comentário a explicar o que aquela classe poderia acrescentar no futuro, dificultando ainda
 mais o código.
 ---------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Daniel Eugénio 59797------------------------------------------------------
+Review do code smell Not Commented, concordo com a opinião do colega. Apesar desta classe ser relativamente simples, 
+os comentários são boas adições ao código e podem ser cruciais para o entendimento de pessoas novas, tanto ao código
+como ao mundo da programação.
+------------------------------------------------------------------------------------------------------------------------------
