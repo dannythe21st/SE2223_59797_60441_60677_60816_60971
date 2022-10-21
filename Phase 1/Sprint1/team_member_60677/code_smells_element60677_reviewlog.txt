@@ -1,0 +1,4 @@
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+Review do code smell Duplicated Code , aqui temos code smell muito bem encontrado esta duplicação de código poderia passar facilmente 
+despercebida, porém são  estas diferenças que tornam tudo mais legível, a solução de criar as variáveis locais acho que seria o ideal.
+-------------------------------------------------------------------------------------------------------------------------------
