@@ -1,0 +1,5 @@
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+Review do code smell Divergent Change, acho que foi um code smell bem encontrado sendo difícil a alteração do código pois vamos ter de alterar todos os números
+e também dificulta a legibilidade, a solução encontrada acho que é perfeita pois resolveria estes dois problemas mesmo que estes números só tenham sido usados 
+neste método variáveis locais com nomes explicativos tornaria o código muito mais claro.
+-------------------------------------------------------------------------------------------------------------------------------
