@@ -2,3 +2,8 @@
 Review do pattern	Iterator , vemos aqui um padrão bem identificado que não levanta grandes dúvidas pela criação de um iterador que 
 fornece uma maneira de percorrer uma coleção de objetos sem expor sua implementação.
 -------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
+Review do pattern nº2, aqui podemos observer um padrão "Decorator" bem identificado pois, podemos ver claramente o objeto "this"
+a ser enviado com o método addDecoration para obter um novo comportamento.
+--------------------------------------------------------------------------------------------------------------------------------- 

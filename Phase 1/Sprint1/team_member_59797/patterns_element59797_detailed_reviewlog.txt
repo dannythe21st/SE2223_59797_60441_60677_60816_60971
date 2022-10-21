@@ -2,3 +2,8 @@
 Review do pattern	Façade , temos aqui um padrão bastante explicito e muito bem encontrado que não levanta duvidas, claramente aquela
 classe é uma façade que vai tornar as subclasses mais fáceis de usar
 -------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
+Concordo com o pattern nº1 pois, conseguimos ver facilmente a criação de um iterador com o intuito de percorrer uma coleção
+de objetos.
+---------------------------------------------------------------------------------------------------------------------------------
