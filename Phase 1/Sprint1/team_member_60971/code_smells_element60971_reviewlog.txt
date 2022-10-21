@@ -2,3 +2,7 @@
 Concordo com o code smell nº3, penso que o code smell mencionado é corretamente identificado. No entanto, penso que também 
 poderia ser considerado Primitive Obsession, pelo uso excessivo de atributos com o tipo inteiro.
 -------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
+Concordo com o code smell nº2 pois, também acho desnecessário a criação desta classe porque apenas tem um construtor sem nenhum
+método.
+-------------------------------------------------------------------------------------------------------------------------------
