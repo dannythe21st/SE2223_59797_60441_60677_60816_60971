@@ -1,0 +1,4 @@
+----------------------------------------------------Daniel Eugénio 59797-------------------------------------------------------
+Sobre o pattern nº3, concordo com o padrão identificado, no entanto, a meu ver, o iterador serve mais o propósito de percorrer 
+uma estrutura de dados sem mexer na estrutura em si, algo que não acontece com um ciclo for ou while.
+-------------------------------------------------------------------------------------------------------------------------------
