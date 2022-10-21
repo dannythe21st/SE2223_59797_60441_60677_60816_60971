@@ -7,3 +7,13 @@ classe é uma façade que vai tornar as subclasses mais fáceis de usar
 Concordo com o pattern nº1 pois, conseguimos ver facilmente a criação de um iterador com o intuito de percorrer uma coleção
 de objetos.
 ---------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------Francisco Silveira 60816-------------------------------------------------------
+	Prototype :
+		Neste padrao podemos facilmente encontrar um prototype.É recebido um objeto e retornado outro com os mesmos dados.
+		Concordo com tudo o que o meu colega disse.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------- 
