@@ -1,8 +1,3 @@
-----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
-Concordo com o code smell nº3 pois, estaremos a gastar tempo de execução desnecessariamente ao chamar a mesma função duas vezes 
-enquanto poderiamos apenas chamar uma vez como foi dito.
----------------------------------------------------------------------------------------------------------------------------------
-
 ----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
 Review do code smell Speculative Generality, este code smell foi bem encontrado a explicação está bastante boa tenho apenas a acrescentar 
 que além disto não existe qualquer tipo de comentário a explicar o que aquela classe poderia acrescentar no futuro, dificultando ainda
