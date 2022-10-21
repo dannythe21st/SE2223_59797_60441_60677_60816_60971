@@ -9,3 +9,11 @@ Review do code smell Not Commented, concordo com a opinião do colega. Apesar de
 os comentários são boas adições ao código e podem ser cruciais para o entendimento de pessoas novas, tanto ao código
 como ao mundo da programação.
 ------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Francisco Silveira 60816------------------------------------------------------
+Review duplicated code:
+	Concordo com o que o colega disse. Em alguns casos, guardar as variáveis que utilizamos várias vezes é extremamente 
+	importante pois, por exemplo, pode ser necessário correr grandes estruturas de dados para encontrar esses valores
+	para além de retirar o código duplicado.
+
+------------------------------------------------------------------------------------------------------------------------------
