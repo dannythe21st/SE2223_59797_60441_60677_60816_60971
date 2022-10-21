@@ -1,0 +1,4 @@
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+Review do pattern	Iterator , vemos aqui um padrão bem identificado que não levanta grandes dúvidas pela criação de um iterador que 
+fornece uma maneira de percorrer uma coleção de objetos sem expor sua implementação.
+-------------------------------------------------------------------------------------------------------------------------------
