@@ -17,3 +17,12 @@ Review duplicated code:
 	para além de retirar o código duplicado.
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+
+----------------------------------------------------Francisco Silveira 60816------------------------------------------------------
+Review Not Commented:
+	Concordo com o que o colega disse. A falta de comentários torna o código pouco legível e torna o trabalho de quem 
+	vai trabalhar nele muito mais difícil. Os comentários são uma parte essencial do código.
+
+------------------------------------------------------------------------------------------------------------------------------
+
