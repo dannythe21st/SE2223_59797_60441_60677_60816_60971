@@ -1,0 +1,4 @@
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+Review do pattern	Façade , temos aqui um padrão bastante explicito e muito bem encontrado que não levanta duvidas, claramente aquela
+classe é uma façade que vai tornar as subclasses mais fáceis de usar
+-------------------------------------------------------------------------------------------------------------------------------
