@@ -11,4 +11,3 @@ método.
 O exposto no code smell nº1, a meu ver pode não evidênciar que pertence algo precisa de ser feito no futuro, poderá também ser 
 algo que simplesmente deixou de ser necessário de utilizar e para "jogar pelo seguro" o troço de código foi mantido em comentário
 -------------------------------------------------------------------------------------------------------------------------------
-
