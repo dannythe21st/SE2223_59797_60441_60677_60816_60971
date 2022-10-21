@@ -1,4 +1,4 @@
 ----------------------------------------------------Daniel Eugénio 59797-------------------------------------------------------
-Concordo com o code smell nº3, penso que o code smell mencionado é corretamente indentificado. No entanto, penso que também 
+Concordo com o code smell nº3, penso que o code smell mencionado é corretamente identificado. No entanto, penso que também 
 poderia ser considerado Primitive Obsession, pelo uso excessivo de atributos com o tipo inteiro.
 -------------------------------------------------------------------------------------------------------------------------------
