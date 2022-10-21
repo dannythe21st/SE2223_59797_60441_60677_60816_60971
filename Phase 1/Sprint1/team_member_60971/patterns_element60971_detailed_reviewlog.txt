@@ -7,3 +7,7 @@ de um "undo" para voltar atrás.
 	Iterator pattern :
 		Concordo com o que o colega disse. Facilmente identificamos um padrão pela criaçáo de um iterador.
 -------------------------------------------------------------------------------------------------------------------------------      
+
+----------------------------------------------------Rafael Costa 60441-------------------------------------------------------
+	Singleton Pattern: Concordo com a identificação do padrão, mas penso que não é explicito a função do padrão
+---------------------------------------------------------------------------------------------------      
