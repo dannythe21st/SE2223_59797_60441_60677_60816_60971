@@ -6,3 +6,11 @@ poderia ser considerado Primitive Obsession, pelo uso excessivo de atributos com
 Concordo com o code smell nº2 pois, também acho desnecessário a criação desta classe porque apenas tem um construtor sem nenhum
 método.
 -------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------Francisco Silveira 60816-------------------------------------------------------
+Review code smell nº1 :
+	Concordo com o que o colega disse. Deixar metodos por fazer nunca é bom, principalmente quando o codigo ja esta
+	partilhado com outras pessoas. Dependendo do caso, isto pode criar erros de compilação ou criar trabalho extra a quem 
+	pega neste programa.
+
+-------------------------------------------------------------------------------------------------------------------------------      
