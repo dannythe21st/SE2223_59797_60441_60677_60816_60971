@@ -1,3 +1,6 @@
 ----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
 Concordo com o code smell nº2 pois, a negação de uma condição no primeiro if pode causar uma dificuldade de percepção do codigo.
 ---------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------Rafael Costa 60441-------------------------------------------------------
+Concordo com o code smell nº1, pois não nos serve de nada ter condições no switch nas quais não utilizamos, para isso deveria ser inserido default no final do switch ou eliminado completamente aqueles "cases" que não estão a ser utilizados
+---------------------------------------------------------------------------------------------------------------------------------
