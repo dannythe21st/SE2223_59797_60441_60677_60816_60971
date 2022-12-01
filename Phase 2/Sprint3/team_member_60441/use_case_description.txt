@@ -1,1 +1,0 @@
-O use case representa a ação de importar o excel com as resources, onde o user deve abrir o menu help, de seguida clicar no botão importar excel e o sistema deverá ir buscar o excel que está guardado no sistema obter todos os dados sobre as resources e inseri-los no ganntproject.
