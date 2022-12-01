@@ -1,1 +1,2 @@
 O use case para adicionar um novo recurso no sistema é extremamente simples pela falta de condições que gerem erros. É possível criar recursos com todos os campos vazios,inserir um preço por hora negativo ou até mesmo adicionar um número de telefone com letras, pelo que este use case não tem qualquer exemplo duma ligação "extends" ou "include", visto nada levar ou obrigar a nenhuma outra ação. Assim, o utilizador interage de forma isolada com cada campo.
+O ator principal é o utilizador da aplicação.
