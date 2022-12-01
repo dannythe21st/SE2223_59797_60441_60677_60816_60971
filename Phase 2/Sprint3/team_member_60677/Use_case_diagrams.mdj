@@ -6308,7 +6308,7 @@
 											"font": "Arial;13;1",
 											"left": 596.5,
 											"top": 131.5,
-											"width": 63,
+											"width": 64,
 											"height": 13,
 											"text": "Atribuir ID"
 										},
@@ -6343,7 +6343,7 @@
 									"font": "Arial;13;0",
 									"left": 591.5,
 									"top": 124.5,
-									"width": 73.552734375,
+									"width": 74,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGEzYJXaDYB+D0="
@@ -6443,7 +6443,7 @@
 							"containerChangeable": true,
 							"left": 576,
 							"top": 120,
-							"width": 104,
+							"width": 105,
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGEzYJXaDYApBA="
@@ -6487,7 +6487,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 547,
+									"left": 548,
 									"top": 170,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6507,7 +6507,7 @@
 										"$ref": "AAAAAAGEzYK+dj8HGUk="
 									},
 									"font": "Arial;13;0",
-									"left": 511,
+									"left": 512,
 									"top": 158,
 									"width": 55.65625,
 									"height": 13,
@@ -6530,7 +6530,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 564,
+									"left": 565,
 									"top": 195,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -6549,7 +6549,7 @@
 								"$ref": "AAAAAAGEyTm3mQ6PNH0="
 							},
 							"lineStyle": 1,
-							"points": "510:223;603:155",
+							"points": "511:223;603:155",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGEzYK+dj8K5AM="
