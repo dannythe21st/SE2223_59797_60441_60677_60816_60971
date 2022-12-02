@@ -55,3 +55,25 @@ mais o código.
 -Review do code smell Duplicated Code , aqui temos code smell muito bem encontrado esta duplicação de código poderia passar facilmente 
 despercebida, porém são  estas diferenças que tornam tudo mais legível, a solução de criar as variáveis locais acho que seria o ideal.
 --------------------------------------------------------------------------------------------------------------------------------- 
+
+----------------------------------------------------Francisco Silveira 60816-------------------------------------------------------
+-Prototype :
+		Neste padrao podemos facilmente encontrar um prototype.É recebido um objeto e retornado outro com os mesmos dados.
+		Concordo com tudo o que o meu colega disse.
+-Review do Template Method Pattern:
+	Concordo com o que o colega disse. Facilmente idenficamos que este método chama o método da classe super e adiciona
+	novo código.
+-Iterator pattern :
+		Concordo com o que o colega disse. Facilmente identificamos um padrão pela criaçáo de um iterador.
+-Review Not Commented:
+	Concordo com o que o colega disse. A falta de comentários torna o código pouco legível e torna o trabalho de quem 
+	vai trabalhar nele muito mais difícil. Os comentários são uma parte essencial do código.
+-Review code smell nº3 :
+
+	Concordo com o que o colega disse. A falta de comentários torna o código pouco legível e torna o trabalho de quem 
+	vai trabalhar nele muito mais difícil.Os comentários são uma parte essencial do código.
+Review duplicated code:
+	Concordo com o que o colega disse. Em alguns casos, guardar as variáveis que utilizamos várias vezes é extremamente 
+	importante pois, por exemplo, pode ser necessário correr grandes estruturas de dados para encontrar esses valores
+	para além de retirar o código duplicado.
+--------------------------------------------------------------------------------------------------------------------------------- 
