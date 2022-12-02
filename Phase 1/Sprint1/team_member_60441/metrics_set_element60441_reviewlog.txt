@@ -1,0 +1,3 @@
+----------------------------------------------------Daniel Eugénio 59797-------------------------------------------------------
+Primeiramente, penso que tenha feito um bom resumo explicativo dos parâmetros da métrica de forma concisa. Quanto à análise dos dados, penso que foi acertada, de facto há muitos pacotes quase ideais, com um valor de D perto de 1, sendo poucos os que têm um valor mais baixo. 
+O Code Smell é também bem identificado, visto que a inappropriate intimacy está relacionada com acoplamento e dependência entre classes, fatores esses que podem ser analisados pelos parâmetros da métrica em causa.
