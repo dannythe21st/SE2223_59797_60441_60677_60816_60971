@@ -1,0 +1,3 @@
+As a user I want to add predecessors to my tasks so that I can organize which tasks to do first.
+
+As user I want to add a resource's days off so you can organize the project without delay.
