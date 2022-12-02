@@ -1,0 +1,1 @@
+As a user I want to see what tasks each resource have so I dont waste time going throw every task to check 
