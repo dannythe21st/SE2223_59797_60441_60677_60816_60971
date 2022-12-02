@@ -1,1 +1,3 @@
-As a user I want to see what tasks each resource have so I dont waste time going throw every task to check 
+As a user I want to see what tasks each resource have so I dont waste time going throw every task to check.
+As a user I want to zoom out my calendar so I don't waste time scrolling right to plan my work.
+
