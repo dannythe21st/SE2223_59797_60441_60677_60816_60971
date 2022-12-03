@@ -1,0 +1,33 @@
+----------------------------------------------------Daniel Eugénio 59797-------------------------------------------------------
+-Primeiramente, penso que tenha feito um bom resumo explicativo dos parâmetros da métrica de forma concisa. Quanto à análise dos dados, 
+penso que foi acertada, de facto há muitos pacotes quase ideais, com um valor de D perto de 1, sendo poucos os que têm um valor mais baixo. 
+O Code Smell é também bem identificado, visto que a inappropriate intimacy está relacionada com acoplamento e dependência entre classes, 
+fatores esses que podem ser analisados pelos parâmetros da métrica em causa.
+--------------------------------------------------------------------------------------------------------------------------------- 
+
+
+----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
+-Em relação à análise do meu colega, concordo que esta métrica é difícil de ser avaliada no formato de packages, em relação
+ aos code smells concordo que possa ajudar a identificar os code smells referidos mas também o code smell “Comments” que é 
+identificado quando uma classe tem excesso de comentários.
+--------------------------------------------------------------------------------------------------------------------------------- 
+
+
+----------------------------------------------------Rafael Costa 60441-------------------------------------------------------
+-A descrição de cada parâmetro da métrica, penso que tenha sido simples e intuitiva, em relação ao Code Smell, realmente não é 
+fácil de identificar um Code Smell para a métrica em questão, mas talvez como o colega descreveu o code Smell Divergent Change seja o adequado.
+--------------------------------------------------------------------------------------------------------------------------------- 
+
+
+----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
+-Em relação à análise do meu colega, acho que o colega conseguiu descrever bem e explicar o que consiste cada ponto desta métrica, porém podia 
+ter pegado num exemplo em específico e ter dado a sua análise, em relação aos code smells concordo com o que o meu colega disse é difícil identificar um em 
+especifico mas certos valores de dependências podem levar a certos smells.
+--------------------------------------------------------------------------------------------------------------------------------- 
+
+
+----------------------------------------------------Francisco Silveira 60816-------------------------------------------------------
+-Primeiramente, penso que o colega tenha feito um excelente trabalho na explicação de cada parâmetro, pois para além de explicar 
+o significado de cada um ainda deu breves exemplos bastante esclarecedores. Concordo com os code smells do meu colega pois com esta 
+métrica conseguimos facilmente identificar “Long Method”’s assim como o excesso de if’s.
+--------------------------------------------------------------------------------------------------------------------------------- 
