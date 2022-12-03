@@ -1,5 +1,0 @@
-----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
-Em relação à análise do meu colega, concordo que esta métrica é difícil de ser avaliada no formato de packages, em relação aos 
-code smells concordo que possa ajudar a identificar os code smells referidos mas também o code smell “Comments” que é identificado 
-quando uma classe tem excesso de comentários. 
----------------------------------------------------------------------------------------------------------------------------------
