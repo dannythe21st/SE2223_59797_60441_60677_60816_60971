@@ -12,6 +12,10 @@ os comentários são boas adições ao código e podem ser cruciais para o enten
 como ao mundo da programação.
 -Concordo com o code smell nº3, penso que o code smell mencionado é corretamente identificado. No entanto, penso que também 
 poderia ser considerado Primitive Obsession, pelo uso excessivo de atributos com o tipo inteiro.
+-Primeiramente, penso que tenha feito um bom resumo explicativo dos parâmetros da métrica de forma concisa. Quanto à análise dos dados, 
+penso que foi acertada, de facto há muitos pacotes quase ideais, com um valor de D perto de 1, sendo poucos os que têm um valor mais baixo. 
+O Code Smell é também bem identificado, visto que a inappropriate intimacy está relacionada com acoplamento e dependência entre classes, 
+fatores esses que podem ser analisados pelos parâmetros da métrica em causa.
 --------------------------------------------------------------------------------------------------------------------------------- 
 
 ----------------------------------------------------Miguel Agostinho 60677-------------------------------------------------------
@@ -26,6 +30,9 @@ a solução que forneceu também me parece boa.
 -Concordo com o code smell nº2 pois, a negação de uma condição no primeiro if pode causar uma dificuldade de percepção do codigo.
 -Concordo com o code smell nº2 pois, também acho desnecessário a criação desta classe porque apenas tem um construtor sem nenhum
 método.
+-Em relação à análise do meu colega, concordo que esta métrica é difícil de ser avaliada no formato de packages, em relação
+ aos code smells concordo que possa ajudar a identificar os code smells referidos mas também o code smell “Comments” que é 
+identificado quando uma classe tem excesso de comentários.
 --------------------------------------------------------------------------------------------------------------------------------- 
 
 ----------------------------------------------------Rafael Costa 60441-------------------------------------------------------
@@ -37,7 +44,9 @@ algo que simplesmente deixou de ser necessário de utilizar e para "jogar pelo s
 -Review do long parameter list.
 Concordo com o referido, é um bad smell code que devemos evitar fazer, pois torna o código confuso e denso.
 -Concordo com o code smell nº1, pois não nos serve de nada ter condições no switch nas quais não utilizamos, para isso deveria 
-ser inserido default no final do switch ou eliminado completamente aqueles "cases" que não estão a ser utilizados
+ser inserido default no final do switch ou eliminado completamente aqueles "cases" que não estão a ser utilizados.
+-A descrição de cada parâmetro da métrica, penso que tenha sido simples e intuitiva, em relação ao Code Smell, realmente não é 
+fácil de identificar um Code Smell para a métrica em questão, mas talvez como o colega descreveu o code Smell Divergent Change seja o adequado.
 --------------------------------------------------------------------------------------------------------------------------------- 
 
 ----------------------------------------------------Guilherme Abrantes 60971-------------------------------------------------------
@@ -54,6 +63,9 @@ que além disto não existe qualquer tipo de comentário a explicar o que aquela
 mais o código.
 -Review do code smell Duplicated Code , aqui temos code smell muito bem encontrado esta duplicação de código poderia passar facilmente 
 despercebida, porém são  estas diferenças que tornam tudo mais legível, a solução de criar as variáveis locais acho que seria o ideal.
+-Em relação à análise do meu colega, acho que o colega conseguiu descrever bem e explicar o que consiste cada ponto desta métrica, porém podia 
+ter pegado num exemplo em específico e ter dado a sua análise, em relação aos code smells concordo com o que o meu colega disse é difícil identificar um em 
+especifico mas certos valores de dependências podem levar a certos smells.
 --------------------------------------------------------------------------------------------------------------------------------- 
 
 ----------------------------------------------------Francisco Silveira 60816-------------------------------------------------------
@@ -72,8 +84,11 @@ despercebida, porém são  estas diferenças que tornam tudo mais legível, a so
 
 	Concordo com o que o colega disse. A falta de comentários torna o código pouco legível e torna o trabalho de quem 
 	vai trabalhar nele muito mais difícil.Os comentários são uma parte essencial do código.
-Review duplicated code:
+-Review duplicated code:
 	Concordo com o que o colega disse. Em alguns casos, guardar as variáveis que utilizamos várias vezes é extremamente 
 	importante pois, por exemplo, pode ser necessário correr grandes estruturas de dados para encontrar esses valores
 	para além de retirar o código duplicado.
+-Primeiramente, penso que o colega tenha feito um excelente trabalho na explicação de cada parâmetro, pois para além de explicar 
+o significado de cada um ainda deu breves exemplos bastante esclarecedores. Concordo com os code smells do meu colega pois com esta 
+métrica conseguimos facilmente identificar “Long Method”’s assim como o excesso de if’s.
 --------------------------------------------------------------------------------------------------------------------------------- 
